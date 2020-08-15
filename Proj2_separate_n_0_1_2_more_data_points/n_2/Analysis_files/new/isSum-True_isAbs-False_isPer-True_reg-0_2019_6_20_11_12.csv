@@ -1,0 +1,25 @@
+Learning Rate,0.01,
+Number of units per hidden layer,5,
+Number of hidden layers,150,
+Number of iterations,20000,
+Regularisation,0,
+Loss function,isSum,True,
+,isAbsolute,False,
+,isPercent,True,
+,
+,
+Learning Rate,Number of hidden layers,Number of units per hidden layer,Number of iterations,e1,e2,e3,e4,e5,e6,
+0.01,5.0,150.0,20000.0,10.297008514404297,14.034234046936035,16.29075813293457,51.6080322265625,74.83766174316406,42.247779846191406,
+
+0.01,5.0,150.0,20000.0,10.297008514404297,e1,
+0.01,5.0,150.0,20000.0,14.034234046936035,e2,
+0.01,5.0,150.0,20000.0,16.29075813293457,e3,
+0.01,5.0,150.0,20000.0,51.6080322265625,e4,
+0.01,5.0,150.0,20000.0,74.83766174316406,e5,
+0.01,5.0,150.0,20000.0,42.247779846191406,e6,
+
+No Top Performers found!!!!
+
+No Other Top Performers found!!!!
+
+Total Time taken by GPU(in seconds),189.89077067375183,

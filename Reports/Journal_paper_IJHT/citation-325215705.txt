@@ -1,0 +1,1 @@
+Xie, Guangzeng & Wang, Yitan & Zhou, Shuchang & Zhang, Zhihua. (2018). Interpolatron: Interpolation or Extrapolation Schemes to Accelerate Optimization for Deep Neural Networks. 
